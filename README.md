@@ -2,13 +2,9 @@
 
 ## 关于我
 
-emm
-
-## 技能
-
-- 编程语言：Java, JavaScript, etc.
-- 框架：Spring, Vue, React, Node.js, etc.
-- 数据库：MySQL, MongoDB, etc.
+```bash
+history -c
+```
 
 ## 联系方式
 
