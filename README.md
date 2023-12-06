@@ -12,4 +12,4 @@ history -c
 - 邮箱: zygboom@163.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaobili&show_icons=true&theme=radical)](https://www.github.com/xiaobili)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaobili&show_icons=true&theme=onedark)](https://www.github.com/xiaobili)
