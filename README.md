@@ -10,3 +10,6 @@ history -c
 
 - GitHub: [xiaobili](https://github.com/xiaobili)
 - 邮箱: zygboom@163.com
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaobili)](https://github.com/anuraghazra/github-readme-stats)
