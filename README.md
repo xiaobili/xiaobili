@@ -12,14 +12,9 @@ history -c
 - 邮箱: zygboom@163.com
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaobili&show_icons=true&theme=onedark)](https://www.github.com/xiaobili)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobili&theme=onedark)](https://github.com/xiaobili)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://www.github.com/xiaobili">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaobili&show_icons=true&theme=onedark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://www.github.com/xiaobili">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobili&theme=onedark" />
 </a>
