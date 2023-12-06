@@ -14,4 +14,4 @@ history -c
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaobili&show_icons=true&theme=onedark)](https://www.github.com/xiaobili)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobili&theme=onedark&layout=compact)](https://github.com/xiaobili)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobili&theme=onedark)](https://github.com/xiaobili)
