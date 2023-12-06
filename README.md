@@ -13,8 +13,8 @@ history -c
 
 
 <a href="https://www.github.com/xiaobili">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaobili&show_icons=true&theme=onedark&locale=cn" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaobili&show_icons=true&theme=onedark&locale=cn" height="300"/>
 </a>
 <a href="https://www.github.com/xiaobili">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobili&theme=onedark&locale=cn" height="200"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobili&theme=onedark&locale=cn" height="300"/>
 </a>
