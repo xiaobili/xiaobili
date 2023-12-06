@@ -12,7 +12,7 @@ history -c
 - 邮箱: zygboom@163.com
 
 
-<div style="text-align:center">
+<div>
   <a href="https://www.github.com/xiaobili">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaobili&show_icons=true&theme=onedark&locale=cn" height="260"/>
 </a>
