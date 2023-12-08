@@ -8,8 +8,4 @@
   </a>
 </center>
 
-.border{
-  border-radius: 20px;
-}
-
-![image](https://pic.rmb.bdstatic.com/bjh/231208/93b086b0ef1566ad64918d70726322745686.png){: .border}
+![image](https://pic.rmb.bdstatic.com/bjh/231208/93b086b0ef1566ad64918d70726322745686.png){border-radius: 20px #fig:image}
