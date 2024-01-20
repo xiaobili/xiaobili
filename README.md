@@ -8,4 +8,4 @@
   </a>
 </center>
 
-![image](https://cdn.jsdelivr.net/gh/xiaobili/upic_lib@main/uPic/code_clean.png)
+![image](https://cdn.jsdelivr.net/gh/xiaobili/upic_lib@main/uPic/rayso.png)
