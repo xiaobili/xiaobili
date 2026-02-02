@@ -23,29 +23,6 @@
 
 ## 🚀 项目组合
 
-### 🌐 OpenWrt_Auto_Build 
-> **基于 Lean 源码的 OpenWrt 固件云编译项目**
-
-[![GitHub stars](https://img.shields.io/github/stars/xiaobili/OpenWrt_Auto_Build.svg?style=social&label=Star)](https://github.com/xiaobili/OpenWrt_Auto_Build)
-
-- **创建日期**: 2026-01-09
-- **最近更新**: 2026-01-13
-- **设备适配**: X86、R2C、R2S、R2S、R4S、R4SE、R5C、R5S、香橙派、树莓派等多种设备
-- **核心特性**:
-  - ✅ 每天定时自动编译，确保最新体验
-  - ✅ 集成常用有线、无线、3G/4G 网卡驱动
-  - ✅ 集成中文版 netdata 实时监控插件
-  - ✅ 集成 iStore 应用商店，方便插件安装
-  - ✅ 支持 Docker 服务，在 OpenWrt 内部署 Docker 应用
-  - ✅ ARMv8 盒子固件分 Mini版（科学上网为主）和 Plus版（多功能版）
-
-<details>
-<summary>点击展开项目详情</summary>
-
-该项目使用 GitHub Actions 拉取 Lean 的 Openwrt 源码仓库进行云编译，固件默认管理地址为 `192.168.1.1`，用户为 `root`，密码为 `password`。提供了适配于 ARMv8 电视盒子、Rockchip 平台、树莓派以及 X86 平台设备的 OpenWrt 固件。
-
-</details>
-
 ### 🌐 Openwrt_Action_Build 
 > **OpenWrt 自动化构建，支持LEDE,ImmortalWrt**
 
