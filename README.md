@@ -1,4 +1,4 @@
-# 👨‍💻 xiaobili - 技术档案
+# <img src="https://simpleicons.org/icons/github.svg" width="20" height="20" /> xiaobili - 技术档案
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 概述
+## <img src="https://simpleicons.org/icons/readthedocs.svg" width="18" height="18" /> 概述
 
 **xiaobili** 是一位热衷于开发实用工具的开源开发者，专注于网络路由器固件、媒体管理工具和自动化脚本等领域。其项目展示了在嵌入式系统、Python开发和前端技术方面的深厚功底。
 
@@ -21,9 +21,9 @@
 
 ---
 
-## 🚀 项目组合
+## <img src="https://simpleicons.org/icons/rocket.svg" width="18" height="18" /> 项目组合
 
-### 🌐 Openwrt_Action_Build 
+### <img src="https://simpleicons.org/icons/openwrt.svg" width="16" height="16" /> Openwrt_Action_Build 
 > **OpenWrt 自动化构建，支持LEDE,ImmortalWrt**
 
 [![GitHub stars](https://img.shields.io/github/stars/xiaobili/Openwrt_Action_Build.svg?style=social&label=Star)](https://github.com/xiaobili/Openwrt_Action_Build)
@@ -31,12 +31,12 @@
 - **创建日期**: 2026-01-29
 - **最近更新**: 2026-02-01
 - **技术特点**:
-  - ✅ 支持 LEDE 和 ImmortalWrt 两个源码分支
-  - ✅ 提供完整版和迷你版两种固件构建选项
-  - ✅ 集成 GitHub Actions 实现自动化构建流程
-  - ✅ 支持定时构建和手动触发构建
-  - ✅ 包含 PassWall、AdGuard Home 等多种常用插件
-  - ✅ 预装 Argon 主题并优化界面体验
+  - <img src="https://simpleicons.org/icons/python.svg" width="12" height="12" /> 支持 LEDE 和 ImmortalWrt 两个源码分支
+  - <img src="https://simpleicons.org/icons/python.svg" width="12" height="12" /> 提供完整版和迷你版两种固件构建选项
+  - <img src="https://simpleicons.org/icons/python.svg" width="12" height="12" /> 集成 GitHub Actions 实现自动化构建流程
+  - <img src="https://simpleicons.org/icons/python.svg" width="12" height="12" /> 支持定时构建和手动触发构建
+  - <img src="https://simpleicons.org/icons/python.svg" width="12" height="12" /> 包含 PassWall、AdGuard Home 等多种常用插件
+  - <img src="https://simpleicons.org/icons/python.svg" width="12" height="12" /> 预装 Argon 主题并优化界面体验
 
 <details>
 <summary>点击展开项目详情</summary>
@@ -45,7 +45,7 @@
 
 </details>
 
-### 📺 openlist_episode_rename
+### <img src="https://simpleicons.org/icons/python.svg" width="16" height="16" /> openlist_episode_rename
 > **交互式剧集批量重命名工具**
 
 [![GitHub stars](https://img.shields.io/github/stars/xiaobili/openlist_episode_rename.svg?style=social&label=Star)](https://github.com/xiaobili/openlist_episode_rename)
@@ -54,12 +54,12 @@
 - **最近更新**: 2026-01-30
 - **语言**: Python 3.7+
 - **核心功能**:
-  - ✅ 交互式导航 OpenList 文件系统
-  - ✅ 支持多种重命名模式（智能识别、手动输入、统一样式等）
-  - ✅ 自动从文件名中提取剧集信息
-  - ✅ 提供美观的终端界面（Rich 版本）
-  - ✅ 操作过程可视化进度条
-  - ✅ 重命名前预览和确认机制
+  - <img src="https://simpleicons.org/icons/python.svg" width="12" height="12" /> 交互式导航 OpenList 文件系统
+  - <img src="https://simpleicons.org/icons/python.svg" width="12" height="12" /> 支持多种重命名模式（智能识别、手动输入、统一样式等）
+  - <img src="https://simpleicons.org/icons/python.svg" width="12" height="12" /> 自动从文件名中提取剧集信息
+  - <img src="https://simpleicons.org/icons/python.svg" width="12" height="12" /> 提供美观的终端界面（Rich 版本）
+  - <img src="https://simpleicons.org/icons/python.svg" width="12" height="12" /> 操作过程可视化进度条
+  - <img src="https://simpleicons.org/icons/python.svg" width="12" height="12" /> 重命名前预览和确认机制
 
 <details>
 <summary>点击展开使用示例</summary>
@@ -72,7 +72,7 @@
 
 </details>
 
-### 🖼️ wallhaven_spider
+### <img src="https://simpleicons.org/icons/python.svg" width="16" height="16" /> wallhaven_spider
 > **wallhaven壁纸网站爬虫**
 
 [![GitHub stars](https://img.shields.io/github/stars/xiaobili/wallhaven_spider.svg?style=social&label=Star)](https://github.com/xiaobili/wallhaven_spider)
@@ -82,7 +82,7 @@
 - **技术栈**: Python, requests, pyppeteer, BeautifulSoup
 - **跨平台支持**: Windows, Linux, macOS
 
-### 💻 code-image
+### <img src="https://simpleicons.org/icons/python.svg" width="16" height="16" /> code-image
 > **通过 RaySO 创建代码图像**
 
 - **创建日期**: 2023-04-12
@@ -91,23 +91,23 @@
 
 ---
 
-## 🛠️ 技术专长
+## <img src="https://simpleicons.org/icons/python.svg" width="18" height="18" /> 技术专长
 
 <div align="center">
 
 | 领域           | 技术栈                        | 熟练度 |
 | -------------- | ----------------------------- | ------ |
-| **嵌入式系统** | OpenWrt, Linux                | ⭐⭐⭐⭐⭐  |
-| **Python开发** | 自动化脚本, API集成, 网络爬虫 | ⭐⭐⭐⭐⭐  |
-| **前端开发**   | Next.js, Web应用              | ⭐⭐⭐⭐   |
-| **DevOps**     | CI/CD, 自动化构建             | ⭐⭐⭐⭐   |
-| **多媒体处理** | 文件管理和重命名              | ⭐⭐⭐⭐   |
+| **嵌入式系统** | OpenWrt, Linux                | <img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" />  |
+| **Python开发** | 自动化脚本, API集成, 网络爬虫 | <img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" />  |
+| **前端开发**   | Next.js, Web应用              | <img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" />   |
+| **DevOps**     | CI/CD, 自动化构建             | <img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" />   |
+| **多媒体处理** | 文件管理和重命名              | <img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" /><img src="https://simpleicons.org/icons/github.svg" width="12" height="12" />   |
 
 </div>
 
 ---
 
-## 📊 活跃统计
+## <img src="https://simpleicons.org/icons/target.svg" width="18" height="18" /> 活跃统计
 
 <div align="center">
 
@@ -122,23 +122,23 @@
 
 ---
 
-## 🎯 项目亮点
+## <img src="https://simpleicons.org/icons/target.svg" width="18" height="18" /> 项目亮点
 
-- 🔧 **实用导向**: 所有项目都针对实际问题，解决真实需求
-- 📚 **文档完善**: 项目配有详细说明和使用指南
-- 🚀 **自动化**: 专注自动化工具，提高工作效率
-- 🌐 **兼容性**: 支持多平台，适配多种设备
-- 💡 **创新性**: 结合新技术解决传统问题
+- <img src="https://simpleicons.org/icons/python.svg" width="14" height="14" /> **实用导向**: 所有项目都针对实际问题，解决真实需求
+- <img src="https://simpleicons.org/icons/readthedocs.svg" width="14" height="14" /> **文档完善**: 项目配有详细说明和使用指南
+- <img src="https://simpleicons.org/icons/rocket.svg" width="14" height="14" /> **自动化**: 专注自动化工具，提高工作效率
+- <img src="https://simpleicons.org/icons/openwrt.svg" width="14" height="14" /> **兼容性**: 支持多平台，适配多种设备
+- <img src="https://simpleicons.org/icons/python.svg" width="14" height="14" /> **创新性**: 结合新技术解决传统问题
 
 ---
 
-## 🤝 联系方式
+## <img src="https://simpleicons.org/icons/handshake.svg" width="18" height="18" /> 联系方式
 
 如对以上项目感兴趣，可前往 [xiaobili 的 GitHub 主页](https://github.com/xiaobili) 查看详细信息。
 
 <div align="center">
 
-**感谢您的访问！✨**
+**感谢您的访问！<img src="https://simpleicons.org/icons/github.svg" width="14" height="14" />**
 
 *享受技术带来的便利，创造更美好的数字生活*
 
